@@ -4,7 +4,7 @@ import java.awt.event.*;
 class Calculator implements ActionListener
 {
 	//Declaring Objects
-	Frame f=new Frame();
+	Frame f=new Frame("Calculator");
 	Label l1=new Label("Enter First Number");
 	Label l2=new Label("Enter Second Number");
 	Label l3=new Label("Result");
