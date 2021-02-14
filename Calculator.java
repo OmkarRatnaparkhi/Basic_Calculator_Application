@@ -17,7 +17,7 @@ class Calculator implements ActionListener
 	Button b2=new Button("Sub");
 	Button b3=new Button("Mul");
 	Button b4=new Button("Div");
-	Button b5 = new Button("Clear");	
+	Button b5=new Button("Clear");	
 	
 	Calculator()
 	{
